@@ -93,6 +93,6 @@
 //     console.log("Hello arrow");
 //   })();
 
-const multiply = (a, b) => a * b;
-console.log(multiply(5, 2));
+// const multiply = (a, b) => a * b;
+// console.log(multiply(5, 2));
 
